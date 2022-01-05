@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Vanshika Tibarewalla
 - 🎓 MS in Analytics-University of Chicago | MBA | CFA | BBA 
-- 💼 Worked with investment banks
-- 👀 I’m recently been launched into the world of data science and am excited to explore it
+- 💼 Worked with investment banks, across industries
+- 👀 I’ve recently been launched into the world of data science and am excited to explore it
 - 🌱 I’m currently learning webscraping, API keys, SQL, R, Python and much more
 - 💞️ I welcome learning and am looking to collaborate on any projects! 
 - 📫 You can reach me at vanshikatib@gmail.com
